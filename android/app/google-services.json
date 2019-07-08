@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "726681380665",
+    "firebase_url": "https://newsthreethreethree.firebaseio.com",
+    "project_id": "newsthreethreethree",
+    "storage_bucket": "newsthreethreethree.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726681380665:android:40589c1766baa406",
+        "android_client_info": {
+          "package_name": "com.newsthreethree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726681380665-fegpluudm7ll29hchvj98u44iiblm060.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhQqadzVFMV9dWCN5Kh4LiTgcQlMzsizc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726681380665-fegpluudm7ll29hchvj98u44iiblm060.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

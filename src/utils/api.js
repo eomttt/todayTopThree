@@ -1,0 +1,1 @@
+export const getData = 'https://bamletter.com/api/topThree/get';
